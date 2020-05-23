@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">quizApp</string>
+    <string name="question1">Select top 2 countries that has the largest military power</string>
+    <string name="question2">No of states in the United States</string>
+    <string name="question3">Where is Taj Mahal located</string>
+    <string name="question4">Where is Niagara falls located</string>
+    <string name="question5">where is the birth place of covid-19</string>
+</resources>
